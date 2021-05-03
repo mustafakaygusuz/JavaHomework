@@ -35,7 +35,7 @@ public class Main {
 		StudentManager studentManager = new StudentManager();
 		studentManager.add(student1);
 		studentManager.remove(instructor2);
-		studentManager.selectCourse("java kursuü");
+		studentManager.selectCourse("java kursuü"); 
 		
 
 	}
