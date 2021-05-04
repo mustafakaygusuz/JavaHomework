@@ -15,7 +15,7 @@ public class Main {
         customer.setId(1);
         customer.setFirstName("Mustafa Ýlhan");
         customer.setLastName("Kaygusuz");
-        customer.setNationalityId("52423156468");
+        customer.setNationalityId("Tcno");
         customer.setDateOfBirth(new GregorianCalendar(2002, 06 , 13).getTime());
 
         BaseCustomerManager customerManager = new StarbucksCustomerManager(new MernisServiceAdapter());
