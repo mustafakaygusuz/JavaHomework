@@ -22,7 +22,7 @@ public class Main {
 		instructor2.email = "kerem@gmail.com";
 		instructor2.password = "213";
 		instructor2.instructorNumber = "2";
-		instructor2.instructorDetail = "güzel anlatým";
+		instructor2.instructorDetail = "güzel anlatým"; 
 		
 		
 		System.out.println(student1.firstName + " " + student2.firstName);
